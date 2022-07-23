@@ -15,9 +15,7 @@ function kiemTraSNT(n) {
                 flag = false;
                 break;
             }
-        }
-             
-            
+        }                       
     }
     return flag;
 }
